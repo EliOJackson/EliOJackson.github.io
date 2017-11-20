@@ -1,0 +1,31 @@
+/* Nav bar specific styles*/
+
+.navbar {
+    width: 90%;
+    background-color: navy;
+    margin: auto;
+    display: inline-flex;
+}
+
+nav li {
+    float: left;
+    list-style-type: none;
+    margin: 1em;
+    background-color: lightcyan;
+    justify-content: center;
+    text-align: center
+    
+}
+
+footer {
+    text-align: center;
+    clear: both;
+}
+
+
+
+
+/* Color Styles */
+h1 {
+    color: lightcyan;
+}
